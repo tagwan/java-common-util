@@ -1,0 +1,35 @@
+.gradle
+*.iml
+.idea/
+build/
+
+out
+
+logs
+
+try.iml
+
+*.retry
+*.rpm
+*.tar.gz
+
+.attach_pid*
+
+yarn-error.log
+.awcache
+dist
+static
+static-dev
+node_modules
+
+CONNECTOR
+# ignore heap debug dump file
+replay_pid*.log
+# ignore java process dump file
+hs_err_pid*
+# ignore shortcut on windows
+*.lnk
+
+clusters.sp
+tsssdk_log
+
